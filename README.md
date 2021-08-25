@@ -3,6 +3,9 @@
 
 ### Primeiro Encontro - 25/08/2021 (Quarta-Feira) - 19h30min
 
+#### Livro de Redes envolvendo Arquitetura TCP/IP
+* [link para download](https://drive.google.com/open?id=1TPAsUHq_Ou3pLQhw2S7AgiQJC2OWVhHg)
+
 #### Sockets TCP & UDP
 [Introdução ao Conceito de Sockets](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=introducao-sockets.pdf)
 
