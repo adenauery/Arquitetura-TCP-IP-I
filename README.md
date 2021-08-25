@@ -1,7 +1,7 @@
-## Fundamentos de Redes de Computadores
+## Arquitetura TCP/IP I
 
 
-### Primeiro Encontro - 23/08/2021 (Segunda-Feira) - 19h
+### Primeiro Encontro - 25/08/2021 (Quarta-Feira) - 19h30min
 
 #### Sockets TCP & UDP
 [Introdução ao Conceito de Sockets](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=introducao-sockets.pdf)
