@@ -10,7 +10,9 @@
   * [Python & PostGres](https://www.devmedia.com.br/como-criar-uma-conexao-em-postgresql-com-python/34079)
   * [Manipulando dados em PostgreSQL com Python](https://dadosaocubo.com/manipulando-dados-em-postgresql-com-python/)
 
-
+#### Python & MQTT
+  * https://gercil.me/blog/usando-o-pahomqtt-para-python
+  
 ### Primeiro Encontro - 25/08/2021 (Quarta-Feira) - 19h30min
 
 #### Livro de Redes envolvendo Arquitetura TCP/IP
