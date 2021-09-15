@@ -7,7 +7,7 @@
 * [link para download](https://drive.google.com/open?id=1TPAsUHq_Ou3pLQhw2S7AgiQJC2OWVhHg)
 
 #### Sockets TCP & UDP
-[Introdução ao Conceito de Sockets](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=introducao-sockets.pdf)
+* [Introdução ao Conceito de Sockets](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=introducao-sockets.pdf)
 
 #### Conceitos Relacionados à IoT:
 * [Slides](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_slides_introdutorios.pdf)
