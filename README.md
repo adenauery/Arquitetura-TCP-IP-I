@@ -6,6 +6,11 @@
 * [Slides](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_slides_introdutorios.pdf)
 * [IoT Comic Book](https://iotcomicbook.org/)
 
+#### Python & Postgres
+  * [Python & PostGres](https://www.devmedia.com.br/como-criar-uma-conexao-em-postgresql-com-python/34079)
+  * [Manipulando dados em PostgreSQL com Python](https://dadosaocubo.com/manipulando-dados-em-postgresql-com-python/)
+
+
 ### Primeiro Encontro - 25/08/2021 (Quarta-Feira) - 19h30min
 
 #### Livro de Redes envolvendo Arquitetura TCP/IP
